@@ -6,10 +6,9 @@ A simple Node.js script to create, read, and delete a file.
 
 - [`fileManager.js`](fileManager.js): Main script to demonstrate file operations.
 - [`package.json`](package.json): Project metadata and configuration.
-- ![Output](output.png): Example output of the script.
+- ![Output](Output.png "Project Screenshot")
 
 ## Usage
-
 1. **Install Node.js** if you haven't already: [https://nodejs.org/](https://nodejs.org/)
 2. Open a terminal in this project directory.
 3. Run the script:
